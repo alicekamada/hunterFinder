@@ -1,0 +1,25 @@
+{
+  "name": "hunterFinder",
+  "version": "1.0.0",
+  "description": "A tool that helps players of hunting action games find each other online",
+  "main": "server/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicekamada/hunterFinder.git"
+  },
+  "author": "Cassandra Cruz <celkamada@gmail.com> (http://alicekamada.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicekamada/hunterFinder/issues"
+  },
+  "homepage": "https://github.com/alicekamada/hunterFinder",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
