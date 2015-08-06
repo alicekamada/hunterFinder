@@ -25,6 +25,10 @@
     "passport": "^0.2.2",
     "passport-local-sequelize": "^0.6.0",
     "ramda": "^0.17.1",
-    "sequelize": "^3.5.1"
+    "sequelize": "^3.5.1",
+    "sqlite3": "^3.0.9"
+  },
+  "devDependencies": {
+    "tape": "^4.0.2"
   }
 }
