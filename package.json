@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/alicekamada/hunterFinder",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "passport": "^0.2.2",
+    "passport-local-sequelize": "^0.6.0",
+    "ramda": "^0.17.1",
+    "sequelize": "^3.5.1"
   }
 }
